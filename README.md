@@ -4,7 +4,7 @@
 
 
 ## About me
-Hi! I'm Phil. An Android engineer based in Liverpool and currently working at [Apposing](https://apposing.co.uk). I have been working on Android for over 8 years now, starting my development carrer in the wonderful world of Eclipse (oh the good old days :laughing:). 
+Hi! I'm Phil. An Android engineer based in Liverpool and currently working at [Apposing](https://apposing.co.uk). I have been working on Android for over 8 years now, starting my development carrer in the wonderful world of Eclipse [oh the good old days :laughing:]. 
 
 
 ## Follow me
