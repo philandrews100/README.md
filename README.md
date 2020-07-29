@@ -46,6 +46,6 @@ Hi! I'm Phil. An Android engineer based in Liverpool and currently working at [A
 
 
 ## Follow me
-- Follow me on [twitter](https://twitter.com/PhilAndrews1)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/philip-andrews-46049553/)
-- See my code on [instagram](https://www.instagram.com/kotlin.phil/)
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg">](https://twitter.com/PhilAndrews1)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/philip-andrews-46049553/)
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">](https://www.instagram.com/kotlin.phil/)
