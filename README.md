@@ -42,6 +42,23 @@ Hi! I'm Phil. An Android engineer based in Liverpool and currently working at [A
         <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
     </td>
   </tr>
+    <tr>
+        <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg">
+    </td>
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg">
+    </td>
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
+    </td>
+  </tr>
 </table>
 
 
