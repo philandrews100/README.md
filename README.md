@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/philandrews100/philandrews100/master/resources/banner.png" alt="Hello world">
 
 ## About me
-Hi! I'm Phil. An Android engineer based in Merseyside and currently working at [TopCashback](https://www.topcashback.co.uk/). I have been working on Android for over 8 years now, starting my development carrer in the wonderful world of Eclipse :laughing:.
+Hi! I'm Phil. An Android engineer based in Sefton. I have been working on Android for over 8 years now, starting my development carrer in the wonderful world of Eclipse :laughing:.
 
 ## Core knowledge
 <table>
