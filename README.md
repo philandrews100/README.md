@@ -57,6 +57,17 @@ Hi! I'm Phil. An Android engineer based in Sefton. I have been working on Androi
         <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
     </td>
   </tr>
+    <tr>
+        <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
+    </td>
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg">
+    </td>
+  </tr>
 </table>
 
 
