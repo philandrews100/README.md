@@ -1,82 +1,27 @@
-<img src="https://raw.githubusercontent.com/philandrews100/philandrews100/master/resources/banner.png" alt="Hello world">
+<h1 align="center">Hi 👋, I'm Phil</h1>
+<h3 align="center">I am an Android Engineer working out of the North West</h3>
 
-## About me
-Hi! I'm Phil. An Android engineer based in Sefton. I have been working on Android for over 8 years now, starting my development carrer in the wonderful world of Eclipse :laughing:.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philandrews100" alt="philandrews100" /></a> </p>
 
-## Core knowledge
-<table>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    </td>
-   <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    </td>
-</tr>
-  </table>
+<p align="left"> <a href="https://twitter.com/philandrews1" target="blank"><img src="https://img.shields.io/twitter/follow/philandrews1?logo=twitter&style=for-the-badge" alt="philandrews1" /></a> </p>
 
-## Areas I have worked with in Android
-<table>
-  <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/algolia/algolia-ar21.svg">
-    </td>
-     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
-    </td>
-  <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg">
-    </td>
-     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
-    </td>
-  </tr>
-    <tr>
-        <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg">
-    </td>
-     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg">
-    </td>
-     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
-    </td>
-  </tr>
-    <tr>
-        <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
-    </td>
-     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg">
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **Jetpack Compose**
 
+- 💬 Ask me about **Kotlin and Android**
 
-## Follow me
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="35" height="35">](https://twitter.com/PhilAndrews1) 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" height="35">](https://www.linkedin.com/in/philip-andrews-46049553/) 
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="35" height="35">](https://www.instagram.com/kotlin.phil/)
-
-## Visitor Count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/philandrews100/count.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/philandrews1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philandrews1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/philip-andrews-46049553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip-andrews-46049553" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1502470/phil-andrews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1502470/phil-andrews" height="30" width="40" /></a>
+<a href="https://instagram.com/kotlin.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kotlin.coder" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philandrews100&show_icons=true&locale=en&layout=compact" alt="philandrews100" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=philandrews100&show_icons=true&locale=en" alt="philandrews100" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philandrews100&" alt="philandrews100" /></p>
