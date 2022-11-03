@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/philandrews1" target="blank"><img src="https://img.shields.io/twitter/follow/philandrews1?logo=twitter&style=for-the-badge" alt="philandrews1" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently working with **Jetpack Compose**
 
 - 💬 Ask me about **Kotlin and Android**
 
