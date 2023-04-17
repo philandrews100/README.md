@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">I am an Android Engineer working out of the North West</h3>
 
-<p align="left"> <a href="https://twitter.com/philandrews1" target="blank"><img src="https://img.shields.io/twitter/follow/philandrews1?logo=twitter&style=for-the-badge" alt="philandrews1" /></a> </p>
-
 - 🌱 I’m currently working with **Jetpack Compose**
 
 - 💬 Ask me about **Kotlin and Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/philandrews1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philandrews1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/philip-andrews-46049553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philip-andrews-46049553" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1502470/phil-andrews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1502470/phil-andrews" height="30" width="40" /></a>
 <a href="https://instagram.com/kotlin.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kotlin.coder" height="30" width="40" /></a>
