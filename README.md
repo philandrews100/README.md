@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">I am an Android Engineer working out of the North West</h3>
 
-- 🌱 I’m currently working with **Jetpack Compose**
+- 🌱 I’m currently learning swift
 
 - 💬 Ask me about **Kotlin and Android**
 
